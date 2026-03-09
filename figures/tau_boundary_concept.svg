@@ -1,0 +1,22 @@
+<svg width="1100" height="460" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 460">
+  <rect width="1100" height="460" fill="white"/>
+  <text x="60" y="42" font-size="30" font-family="Arial">Boundary Placement Controls the Finite-Crystal Spectrum</text>
+  <text x="60" y="74" font-size="17" font-family="Arial" fill="#555">Conceptual diagram for an ideal 1D finite crystal extending from τ to τ + Na.</text>
+  <line x1="120" y1="250" x2="980" y2="250" stroke="#111827" stroke-width="2"/>
+  <path d="M120 250 C140 210, 160 210, 180 250 C200 290, 220 290, 240 250 C260 210, 280 210, 300 250 C320 290, 340 290, 360 250 C380 210, 400 210, 420 250 C440 290, 460 290, 480 250 C500 210, 520 210, 540 250 C560 290, 580 290, 600 250 C620 210, 640 210, 660 250 C680 290, 700 290, 720 250 C740 210, 760 210, 780 250 C800 290, 820 290, 840 250 C860 210, 880 210, 900 250 C920 290, 940 290, 960 250" fill="none" stroke="#059669" stroke-width="4"/>
+  <line x1="240" y1="120" x2="240" y2="340" stroke="#dc2626" stroke-width="4"/>
+  <line x1="780" y1="120" x2="780" y2="340" stroke="#dc2626" stroke-width="4"/>
+  <rect x="240" y="135" width="540" height="190" fill="#dbeafe" opacity="0.45" stroke="#60a5fa" stroke-width="2"/>
+  <text x="226" y="108" font-size="24" font-family="Arial">τ</text>
+  <text x="742" y="108" font-size="24" font-family="Arial">τ + Na</text>
+  <text x="435" y="355" font-size="20" font-family="Arial">finite crystal region</text>
+  <text x="92" y="286" font-size="18" font-family="Arial">periodic potential V(x)</text>
+  <g stroke="#93c5fd" stroke-width="1.5">
+    <line x1="300" y1="135" x2="300" y2="325"/><line x1="360" y1="135" x2="360" y2="325"/><line x1="420" y1="135" x2="420" y2="325"/><line x1="480" y1="135" x2="480" y2="325"/><line x1="540" y1="135" x2="540" y2="325"/><line x1="600" y1="135" x2="600" y2="325"/><line x1="660" y1="135" x2="660" y2="325"/><line x1="720" y1="135" x2="720" y2="325"/>
+  </g>
+  <path d="M355 90 C390 50, 500 50, 535 90" fill="none" stroke="#111827" stroke-width="2"/>
+  <text x="402" y="46" font-size="18" font-family="Arial">N cells of period a</text>
+  <circle cx="445" cy="385" r="9" fill="#dc2626"/>
+  <text x="465" y="392" font-size="18" font-family="Arial">boundary placement determines the special gap state</text>
+  <text x="60" y="420" font-size="18" font-family="Arial" fill="#1f2937">Big idea: a finite crystal is not just an infinite crystal cut short; the positions of its ends relative to the periodic potential matter.</text>
+</svg>

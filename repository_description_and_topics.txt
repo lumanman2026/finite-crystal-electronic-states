@@ -1,0 +1,19 @@
+Repository name:
+finite-crystal-electronic-states
+
+Short description:
+Exact analytical solution of electronic states in ideal one-dimensional finite crystals. Rigorous finite-crystal extension of Bloch theory with N−1 band states and at most one state per band gap.
+
+Suggested GitHub topics:
+quantum-mechanics
+condensed-matter-physics
+bloch-theorem
+crystal-physics
+surface-states
+band-structure
+periodic-potentials
+finite-crystals
+photonic-crystals
+phononic-crystals
+mathematical-physics
+nanophysics
